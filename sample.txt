@@ -1,1 +1,2 @@
 this is sample file
+remove the content in the file
